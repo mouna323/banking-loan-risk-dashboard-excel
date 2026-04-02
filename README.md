@@ -60,8 +60,7 @@ README.md
 
 ## Dashboard Preview
 
-(Add your screenshot here)
-
+<img width="1836" height="809" alt="banking-loan-risk-dashboard-excel" src="https://github.com/user-attachments/assets/9734b49f-eb16-4030-9eed-2ebfaad005cf" />
 
 
 ## Key Takeaways
@@ -72,4 +71,4 @@ This project demonstrates:
 
 ## Author
 **Mouna Al-Nasser**
-Aspiring Data Analyst / BI Analyst
+Data Analyst / BI Analyst
